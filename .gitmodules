@@ -1,0 +1,18 @@
+[submodule "AlcoholOrGasoline"]
+	path = AlcoholOrGasoline
+	url = https://github.com/davilnv/alcohol-or-gasoline-app.git
+[submodule "AppComponents"]
+	path = AppComponents
+	url = https://github.com/davilnv/components-tests-app.git
+[submodule "Quoteoftheday"]
+	path = Quoteoftheday
+	url = https://github.com/davilnv/quote-day-app.git
+[submodule "RockPaperScissors"]
+	path = RockPaperScissors
+	url = https://github.com/davilnv/rock-paper-scissors-app.git
+[submodule "TipCalculator"]
+	path = TipCalculator
+	url = https://github.com/davilnv/tip-calculator-app.git
+[submodule "AppTestsCurso"]
+	path = AppTestsCurso
+	url = https://github.com/davilnv/app-tests-course.git
